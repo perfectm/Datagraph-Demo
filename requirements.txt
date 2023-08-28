@@ -1,0 +1,5 @@
+gunicorn
+dash
+dash-core-components
+dash-html-components
+pandas
